@@ -5,9 +5,16 @@
 
 Hello World of spring!
 
-<br> 
+<br><br> 
 
 Student name: ${param.studentName}
+
+<br><br> 
+
+The message: ${message}
+
+<br><br> 
+
 
 </body>
 
