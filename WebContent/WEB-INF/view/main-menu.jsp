@@ -6,11 +6,11 @@
 
 <hr>
 
-<a href="showForm">Hello World form</a>
+<a href="showForm">Simple form</a>
 
 <br><br>
 
-<a href="student/showForm">Hello World form</a>
+<a href="student/showForm">Student Registration form</a>
 
 
 
